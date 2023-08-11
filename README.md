@@ -18,7 +18,6 @@
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -69,6 +68,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
   - Nodejs  
   - MongoDB
+  - Your choice of code editor
 ### Setup
 
 Clone this repository to your desired folder:
@@ -103,7 +103,7 @@ To run the project, execute the following command:
 ```
 
 ```sh
- Follow the link provided in the terminal 
+ Follow the link provided in the terminal and play with different endpoints 
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -144,24 +144,9 @@ If you like this project give a star!!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank my partners. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [LICENSE](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
